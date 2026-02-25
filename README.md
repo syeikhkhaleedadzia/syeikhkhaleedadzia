@@ -1,16 +1,16 @@
-## Hi there 👋
+ Hi there, I'm dzia! 👋 🚀
 
-<!--
-**syeikhkhaleedadzia/syeikhkhaleedadzia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🎓 Informatics Engineering Student
+ I am a passionate student from Indonesia 🇮🇩 focused on building a strong foundation in computer science and exploring global tech opportunities.
 
-Here are some ideas to get you started:
+ 💻 Current Journey
+- 🔭 Mastering "C++" and programming logic.
+- 🌱 Diving into "Web Development" (HTML, CSS, and JS).
+- 🛠️ Tools: "Dev-C++, Git, and GitHub".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🎯 My Road to Success
+- Build a professional web portfolio.
+- Contribute to open-source projects.
+- Pursue international academic excellence. 🌏
+
+ "Driven by logic, inspired by future possibilities."
