@@ -24,7 +24,7 @@ I am a dedicated Computer Science student building my foundation in programming 
 ---
 
 📊 My GitHub Stats
-![Dzia's GitHub stats](https://github-readme-stats.vercel.app/api?syeikhkhaleedadzia=syeikhkhaleedadzia&show_icons=true&theme=radical)
+![Dzia's GitHub stats](https://github.com/syeikhkhaleedadzia/syeikhkhaleedadzia)
 
 ---
 
