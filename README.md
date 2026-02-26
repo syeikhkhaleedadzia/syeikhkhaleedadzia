@@ -18,7 +18,7 @@ I am a dedicated Computer Science student building my foundation in programming 
 - Platform: Windows
 
 📁 Featured Work
-- 🎓 [Semester 1 University Projects](https://github-readme-stats.vercel.app/api?syeikhkhaleedadzia=syeikhkhaleedadzia_KAMU&show_icons=true&theme=radical)
+- 🎓 [Semester 1 University Projects](https://github.com/syeikhkhaleedadzia/Semester-1-University-Projects)
   *A collection of my first-semester assignments: Operators, Decision Making, and Logic.*
 
 ---
