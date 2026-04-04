@@ -20,6 +20,10 @@ I am a dedicated Computer Science student building my foundation in programming 
 - **Tools:** Jupyter Notebook, GitHub Desktop, Git, Dev-C++
 - **Platform:** Windows
 
+### 🌍 Learning Journey
+* **English Proficiency:** Currently taking intensive online English courses to prepare for TOEFL/IELTS and international studies in Europe.
+* **Technical Skills:** Actively practicing C++ and Computer Graphics algorithms daily.
+
 ### Let's Connect!
 - 📸 Instagram: [@dzalyve_](https://www.instagram.com/dzalyve_?igsh=ZW81OWZ2ajFiZzl0)
 
