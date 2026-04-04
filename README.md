@@ -1,36 +1,41 @@
- Hi there, I'm Dzia! 👋 🏎️💨
+# Hi there, I'm Dzia! 👋 🏸👩‍💻
 
- 🚀 Informatics Engineering Student | Aspiring Developer | Badminton Enthusiast
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Informatics%20Engineering%20Student-blue?style=flat-square" alt="Student Status">
+  <img src="https://img.shields.io/badge/Role-Badminton%20Extra--Curricular%20Instructor-green?style=flat-square" alt="Badminton Coach Status">
+</p>
 
-I am a dedicated Computer Science student building my foundation in programming and algorithmic thinking. I'm passionate about technology and constantly refining my skills for a global career in the tech industry.
+I am a dedicated Computer Science student building my foundation in programming and algorithmic thinking. I passionately believe that the discipline, strategic thinking, and leadership I develop as a **Badminton Extra-Curricular Instructor** are the same values I apply to writing clean, efficient code for a global tech career.
 
 ---
 
- 🚀 About Me
-- 🔭 Current Focus: Mastering C++ and Data Structures.
-- 🌱 Learning: Strengthening my coding logic and professional English.
-- 🎯 Goal: Building a solid portfolio and exploring international opportunities.
-- 🏸 Hobby: I enjoy playing badminton! It’s my favorite way to stay active and focused outside of coding.
+### 🚀 About Me
+- **🔭 Current Focus:** Mastering Computer Graphics (DDA & Bresenham) and Data Structures.
+- **🌱 Leadership:** Proudly serving as a **Badminton Extra-Curricular Instructor**, mentoring students in discipline and teamwork.
+- **🎯 Goal:** Building a solid portfolio and exploring international opportunities in Europe.
+- **🏸 Hobby:** If I'm not coding, I'm definitely on the badminton court! 
 
-🛠️ My Tech Toolbox
-- Language: C++
-- Tools: Dev-C++, GitHub Desktop, Git
-- Platform: Windows
+### 🛠️ My Tech Toolbox
+- **Languages:** Python (NumPy & Matplotlib), C++
+- **Tools:** Jupyter Notebook, GitHub Desktop, Git, Dev-C++
+- **Platform:** Windows
 
-📁 Featured Work
+### 📁 Featured Work
 - 🎓 [Semester 1 University Projects](https://github.com/syeikhkhaleedadzia/Semester-1-University-Projects)
   *A collection of my first-semester assignments: Operators, Decision Making, and Logic.*
+- 📊 [Computer Graphics - UNPAM](https://github.com/syeikhkhaleedadzia/Grafika-Komputer-UNPAM)
+  *Implementation of Line Generation Algorithms (DDA & Bresenham).*
 
 ---
 
-📊 My GitHub Stats
-![Dzia's GitHub stats](https://github.com/syeikhkhaleedadzia/syeikhkhaleedadzia)
+### 📊 My GitHub Stats
+![Dzia's GitHub stats](https://github-readme-stats.vercel.app/api?username=syeikhkhaleedadzia&show_icons=true&theme=radical)
 
 ---
 
-Let's Connect!
+### Let's Connect!
 - 📸 Instagram: [@dzalyve_](https://www.instagram.com/dzalyve_?igsh=ZW81OWZ2ajFiZzl0)
 
 ---
 
-"One commit at a time, building my path to a global career." 🌍✨
+*"Discipline on the court, precision in the code. Building my path to a global career."* 🌍✨
