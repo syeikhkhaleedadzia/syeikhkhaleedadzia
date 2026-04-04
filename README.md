@@ -20,19 +20,6 @@ I am a dedicated Computer Science student building my foundation in programming 
 - **Tools:** Jupyter Notebook, GitHub Desktop, Git, Dev-C++
 - **Platform:** Windows
 
-### 📁 Featured Work
-- 🎓 [Semester 1 University Projects](https://github.com/syeikhkhaleedadzia/Semester-1-University-Projects)
-  *A collection of my first-semester assignments: Operators, Decision Making, and Logic.*
-- 📊 [Computer Graphics - UNPAM](https://github.com/syeikhkhaleedadzia/Grafika-Komputer-UNPAM)
-  *Implementation of Line Generation Algorithms (DDA & Bresenham).*
-
----
-
-### 📊 My GitHub Stats
-![Dzia's GitHub stats](https://github-readme-stats.vercel.app/api?username=syeikhkhaleedadzia&show_icons=true&theme=radical)
-
----
-
 ### Let's Connect!
 - 📸 Instagram: [@dzalyve_](https://www.instagram.com/dzalyve_?igsh=ZW81OWZ2ajFiZzl0)
 
